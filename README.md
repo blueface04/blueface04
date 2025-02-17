@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**blueface04/blueface04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Josue_Web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
